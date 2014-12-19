@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "Soares Chen",
+    "email": "soares.chen@gmail.com",
+    "url": "http://soareschen.com"
+  },
+  "name": "quiver-core",
+  "desription": "Meta npm package to gather all core packages of Quiver",
+  "version": "1.0.0",
+  "homepage": "https://github.com/quiverjs/quiver-core",
+  "repository": {
+    "url": "git@github.com:quiverjs/quiver-core.git"
+  },
+  "dependencies": {
+    "traceur": "0.0.79",
+    "quiver-error": "1.0.1",
+    "quiver-object": "1.2.2",
+    "quiver-promise": "1.0.0",
+    "quiver-stream-channel": "~1.2.1",
+    "quiver-stream-util": "~1.2.1",
+    "quiver-file-stream": "~1.2.1",
+    "quiver-simple-handler": "~1.2.1",
+    "quiver-http": "~1.2.2",
+    "quiver-component": "2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/quiverjs/quiver-core/issues",
+    "email": "quiver@quiverjs.org"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./index.js",
+  "bin": {
+    "traceur": "./traceur-cmd.sh"
+  }
+}
