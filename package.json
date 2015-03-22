@@ -4,9 +4,9 @@
     "email": "soares.chen@gmail.com",
     "url": "http://soareschen.com"
   },
-  "name": "quiver-core",
+  "name": "quiver",
   "desription": "Meta npm package to gather all core packages of Quiver",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "homepage": "https://github.com/quiverjs/quiver-core",
   "repository": {
     "url": "git@github.com:quiverjs/quiver-core.git"
@@ -18,7 +18,7 @@
     "quiver-promise": "~1.2.1",
     "quiver-component": "~2.3.1",
     "quiver-stream-util": "~1.4.2",
-    "quiver-file-stream": "~1.4.1",
+    "quiver-file-stream": "~1.4.2",
     "quiver-stream-channel": "~1.4.1",
     "quiver-simple-handler": "~1.4.1"
   },
