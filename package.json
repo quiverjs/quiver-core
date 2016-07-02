@@ -12,17 +12,18 @@
     "url": "git@github.com:quiverjs/quiver-core.git"
   },
   "dependencies": {
-    "quiver-util": "^1.2.1",
-    "quiver-graph": "^1.1.6",
-    "quiver-http-head": "^1.0.2",
-    "quiver-stream-util": "^1.4.6",
+    "quiver-component": "^3.0.4",
     "quiver-file-stream": "^1.4.6",
-    "quiver-component": "^3.0.3"
+    "quiver-graph": "^1.1.6",
+    "quiver-http": "^2.0.2",
+    "quiver-http-head": "^1.0.5",
+    "quiver-stream-util": "^1.4.6",
+    "quiver-util": "^1.2.4"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
-    "quiver-babel": "^1.0.1",
-    "tape": "^4.5.1"
+    "quiver-babel": "^1.0.2",
+    "tape": "^4.6.0"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/quiver-core/issues",

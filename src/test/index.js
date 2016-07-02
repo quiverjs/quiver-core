@@ -1,5 +1,6 @@
-import 'quiver-util/out/test'
-import 'quiver-http-head/out/test'
+import 'quiver-util/test'
+import 'quiver-http/test'
+import 'quiver-http-head/test'
 import 'quiver-stream-util/test'
 import 'quiver-file-stream/test'
 import 'quiver-component/test'
