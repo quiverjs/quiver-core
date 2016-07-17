@@ -6,19 +6,19 @@
   },
   "name": "quiver-core",
   "desription": "Meta npm package to gather all core packages of Quiver",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "homepage": "https://github.com/quiverjs/quiver-core",
   "repository": {
     "url": "git@github.com:quiverjs/quiver-core.git"
   },
   "dependencies": {
     "quiver-component": "^3.0.4",
-    "quiver-file-stream": "^1.4.6",
+    "quiver-file-stream": "^1.4.7",
     "quiver-graph": "^1.1.6",
-    "quiver-http": "^2.0.2",
-    "quiver-http-head": "^1.0.5",
+    "quiver-http": "^2.0.7",
+    "quiver-http-head": "^1.0.6",
     "quiver-stream-util": "^1.4.6",
-    "quiver-util": "^1.2.4"
+    "quiver-util": "^1.2.5"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
@@ -36,6 +36,6 @@
     "prepublish": "make build"
   },
   "engines": {
-    "node": "^6.2.2"
+    "node": "^6.3.0"
   }
 }
