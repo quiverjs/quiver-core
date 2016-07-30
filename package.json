@@ -6,13 +6,13 @@
   },
   "name": "quiver-core",
   "desription": "Meta npm package to gather all core packages of Quiver",
-  "version": "2.0.6",
+  "version": "2.1.0",
   "homepage": "https://github.com/quiverjs/quiver-core",
   "repository": {
     "url": "git@github.com:quiverjs/quiver-core.git"
   },
   "dependencies": {
-    "quiver-component": "^3.0.5",
+    "quiver-component": "^3.1.0",
     "quiver-file-stream": "^1.4.7",
     "quiver-graph": "^1.1.6",
     "quiver-http": "^2.0.7",
